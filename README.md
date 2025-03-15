@@ -1,4 +1,4 @@
-# 💰 Financial Chatbot
+# 🤖 FinBot
 
 An intelligent chatbot that helps answer financial questions using structured data and machine learning techniques.
 
